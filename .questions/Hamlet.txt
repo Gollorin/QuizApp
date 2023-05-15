@@ -1,0 +1,13 @@
+Autor?;William Shakespeare
+Druh?;Drama
+Žánr?;Tragédie
+Téma a motiv?;Příčina a váhání nad uskutečněním pomsty
+Prostředí a čas?;Dánsko hrad Elsinor v 17 stol
+Kompozice?;Chronoligická v 5 dějstvích
+Vypravěč?;Jednotlivé repliky a scénaristické poznámky
+Postavy?;Hamlet, Ofélie, Claudius, Gertruda, Polonius, Leartes
+Jazykové prostředky?;Blankvers, monology, sarkasmus
+Kontext tvorby?;1 období - Komedie, 2 období - tragédie, 3 období pohádky
+Další jeho tvorba?;Romeo a Julie, Othello
+Kulturní kontext?;Humanismus a renesance 13-16 století
+Další autoři?;Giovanni Bocccacio, Francesco Petrarca, Dante Aligiery

@@ -1,0 +1,13 @@
+Autor?;
+Druh?;
+Žánr?;
+Téma a motiv?;
+Prostředí a čas?;
+Kompozice?;
+Vypravěč?;
+Postavy?;
+Jazykové prostředky?;
+Kontext tvorby?;
+Další jeho tvorba?;
+Kulturní kontext?;
+Dalsí Autoři?;

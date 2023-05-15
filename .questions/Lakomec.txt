@@ -1,0 +1,13 @@
+Autor?;Moliére
+Druh?;Drama - proza
+Žánr?;Komedie
+Téma a motiv?;Touha po penězích, neschopnost lásky. Kritika lidských vlastností (lakota, neupřímnost, chamtivost)
+Prostředí a čas?;Paříž v 2. pol 17 století
+Kompozice?;Komedie o 5 dějstvích
+Vypravěč?;Jednotlivé repliky a scénické poznámky
+Postavy?;Harpagon > Klantes, Eliška, Anselm > Valér, Mariana, Frosina, Čipera
+Jazykové prostředky?;Psáno v proze, komické, živé dialogy, výsměch, satira
+Kontext tvorby?;Největší francouzský dramatik, napsal 33 her, snaha měšťanů o napodobení šlechty
+Další jeho tvorba?;Tartuffe, Zdravý a nemocný, Don Juan
+Kulturní kontext?;Klasicismus (napodobení antiky) ve FR v 17. století
+Další autoři?;Carlo Goldoni, Peirre Conrelle

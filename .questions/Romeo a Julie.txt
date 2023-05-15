@@ -1,0 +1,13 @@
+Autor?;William Shakespeare
+Druh?;Drama
+Žánr?;Tragédie
+Téma a motiv?;Tregédie Lásky, Touha mladých o samotném rozhodování
+Prostředí a čas?;Itálie Verona 16 stol (během 5 dnů)
+Kompozice?;Chronoligická v 5 dějstvích
+Vypravěč?;Jednotlivé repliky a scénaristické poznámky
+Postavy?;Romeo Montek, Julie Kapuletova, Vavřinec Lorenzo, Tybald
+Jazykové prostředky?;Blankvers, monology, sarkasmus
+Kontext tvorby?;1 období - Komedie, 2 období - tragédie, 3 období pohádky
+Další jeho tvorba?;Hamlet, Othello
+Kulturní kontext?;Humanismus a renesance 13-16 století
+Další autoři?;Giovanni Bocccacio, Francesco Petrarca, Dante Aligiery

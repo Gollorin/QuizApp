@@ -1,0 +1,13 @@
+Autor?;Karel Čapek
+Druh?;Drama
+Žánr?;antiutopická tragédie
+Téma a motiv?;Protiválečné, protifašistické, boj jedince proti společnosti
+Prostředí a čas?;Nemocnice, 
+Kompozice?;Předehra, 3 dějství
+Vypravěč?;Jednotlivé repliky a scénaristické poznatky
+Postavy?; Dr. Galen, Maršál, Sigelius, Krug, Generace
+Jazykové prostředky?; Sarkasmus, Ironie, Nadsázka, Satira
+Kontext tvorby?;Demokratický proud, psal za času války
+Další jeho tvorba?;Krakatit, Válka s Mloky, Povídky, RUR
+Kulturní kontext?;Demokratický proud - odmítali násilí, demokracie
+Dalsí Autoři?;Bass, Poláček, Hašek, Vančura

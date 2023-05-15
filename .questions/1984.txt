@@ -1,0 +1,13 @@
+Autor?;Gorge Orwell
+Druh?;Epika
+Žánr?;Antiutopický román
+Téma a motiv?;Zobrazení a varování před totalitním režimem
+Prostředí a čas?;Londýn 1984
+Kompozice?;Chronologická 
+Vypravěč?;Er-forma vševědoucí vypravěč
+Postavy?;William Smith, Julia?, Velký bratr
+Jazykové prostředky?;Zkratky, předtvoření slov
+Kontext tvorby?;Za totalitního režimu
+Další jeho tvorba?;Farma zvířat
+Kulturní kontext?;Totalitní režim, člověk v totalitě, sci-fi
+Dalsí Autoři?;Fuks, Karel Čapek, Alexandr Složenicyn

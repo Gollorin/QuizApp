@@ -1,0 +1,13 @@
+Autor?;Karel Čapek
+Druh?;Drama
+Žánr?;antiutopická tragédie
+Téma a motiv?;Kritika přeceňováni techniky, oslava lidství
+Prostředí a čas?;Rommusuv ostrov
+Kompozice?;Předehra, 3 dějství
+Vypravěč?;Jednotlivé repliky a scénaristické poznatky
+Postavy?;Alquist, Helena Gloriová, Domin, Gall, Hall, Bussman, Fabry, Nána
+Jazykové prostředky?; Sarkasmus, Ironie, Nadsázka, Satira
+Kontext tvorby?;Demokratický proud, psal za času války
+Další jeho tvorba?;Krakatit, Válka s Mloky, Povídky
+Kulturní kontext?;Demokratický proud - odmítali násilí, demokracie
+Dalsí Autoři?;Bass, Poláček, Hašek, Vančura
